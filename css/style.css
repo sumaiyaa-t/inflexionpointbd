@@ -2519,7 +2519,7 @@ div[class*="kursor"].kursor--1.kursor--down {
 /*-------------- [_Footer] ---------------*/
 /*========================================*/
 .footer-main-area {
-  background: #1d2746;
+  background: #0a1d30;;
   padding: 110px 0 110px;
 }
 
@@ -2582,7 +2582,10 @@ div[class*="kursor"].kursor--1.kursor--down {
 .footer-contact-info .contact-info-text {
   margin-left: 20px;
 }
-
+.footer-image{
+  width:400px;
+  height:200px !important;
+}
 /*========================================*/
 /*---------------- [_widget] -------------*/
 /*========================================*/
