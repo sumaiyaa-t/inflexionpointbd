@@ -6799,6 +6799,7 @@ select {
   position: relative;
   overflow: hidden;
   border-radius: 8px 8px 0 0;
+  height: 200px;
 }
 
 .news-wrapper .news-thumb img {
